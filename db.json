@@ -1,9 +1,3 @@
 {
-  "contacts": [
-    {
-      "id": "e6bdb3ce-f6ff-44e9-bb3e-513d6ea1db87",
-      "name": "akhtar",
-      "email": "akhtar.decy@gmail.com"
-    }
-  ]
+  "contacts" : []
 }
